@@ -1,7 +1,7 @@
 <h1 align="center"> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Copy - Instagram</h1>
 
 
-## ♟️ Techs 
+## ♟️ Tech 
 
 * HTML
 * CSS

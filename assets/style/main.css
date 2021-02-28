@@ -1,0 +1,249 @@
+html {
+  font-size: 62.5%;
+}
+
+html body {
+  font-size: 1.6rem;
+  font-family: roboto, sans-serif;
+  background-color: #fafafa;
+}
+
+html body .container {
+  max-width: 120rem;
+  margin: 3.2rem auto 0;
+}
+
+html body .container .containerMain {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  padding-bottom: 3.2rem;
+}
+
+html body .container .containerMain .containerPartTwo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+html body .container .containerMain .containerPartTwo .containerContent div {
+  max-width: 35.0rem;
+}
+
+html body .container .containerMain .containerPartTwo .containerContent div .imgInsta {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 45%;
+  margin: 3rem auto;
+}
+
+html body .container .containerMain .containerPartTwo .containerContent .containerFirst {
+  background-color: #fff;
+  border: 0.1rem solid #dbdbdb;
+  border-radius: 0.1rem;
+  margin: 2.4rem 0rem 1rem;
+  padding: 1rem 0rem;
+}
+
+html body .container .containerMain .containerPartTwo .containerContent .containerFirst .email {
+  margin: 0rem 4rem 0.6rem;
+}
+
+html body .container .containerMain .containerPartTwo .containerContent .containerFirst .email input {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-size: 1.2rem;
+  background: #fafafa;
+  border: 0.1rem solid #dbdbdb;
+  border-radius: 0.3rem;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  color: #8e8e8e;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  width: 100%;
+  overflow: hidden;
+  background: #fafafa;
+  outline: 0rem;
+  padding: 1.5rem 0rem 0.7rem 0.8rem;
+}
+
+html body .container .containerMain .containerPartTwo .containerContent .containerFirst .formLogin {
+  margin: 2rem 4rem;
+}
+
+html body .container .containerMain .containerPartTwo .containerContent .containerFirst .formLogin button {
+  background-color: #0095f64d;
+  opacity: 1;
+  border: 1px solid transparent;
+  pointer-events: none;
+  border-radius: 0.4rem;
+  color: #fff;
+  width: 100%;
+  padding: 0.5rem 0.9rem;
+}
+
+html body .container .containerMain .containerPartTwo .containerContent .containerFirst .or {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #8e8e8e;
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.5rem;
+  margin: 1rem 4rem 1.8rem;
+  text-transform: uppercase;
+}
+
+html body .container .containerMain .containerPartTwo .containerContent .containerFirst .or::after {
+  content: '';
+  height: 0.1rem;
+  border-left: 11rem solid #dbdbdb;
+  margin-left: 1.5rem;
+}
+
+html body .container .containerMain .containerPartTwo .containerContent .containerFirst .or::before {
+  content: '';
+  height: 0.1rem;
+  border-left: 11rem solid #dbdbdb;
+  margin-right: 1.5rem;
+}
+
+html body .container .containerMain .containerPartTwo .containerContent .containerFirst .passworD {
+  text-align: center;
+  color: #00376b;
+  margin: 0rem;
+  padding: 0rem;
+  border: 0rem;
+  font: inherit;
+  vertical-align: baseline;
+  font-size: 1.4rem;
+}
+
+html body .container .containerMain .containerPartTwo .containerContent .containerFirst .passworD span {
+  cursor: pointer;
+}
+
+html body .container .containerMain .containerPartTwo .containerContent .containerFirst .passworD span > i {
+  display: inline-block;
+  margin-right: 0.8rem;
+  font-size: 1.9rem;
+  cursor: pointer;
+}
+
+html body .container .containerMain .containerPartTwo .containerContent .containerFirst .passworD a {
+  cursor: pointer;
+  font-size: 1.2rem;
+  line-height: 6.4rem;
+}
+
+html body .container .containerMain .containerPartTwo .containerContent .containerParSing {
+  width: 35.0rem;
+  background-color: #fff;
+  border: 0.1rem solid #dbdbdb;
+  border-radius: 0.1rem;
+  padding: 1rem 0rem;
+}
+
+html body .container .containerMain .containerPartTwo .containerContent .containerParSing p {
+  color: #262626;
+  font-size: 1.4rem;
+  margin: 1.5rem;
+  text-align: center;
+  letter-spacing: 0.05rem;
+}
+
+html body .container .containerMain .containerPartTwo .containerContent .containerParSing span {
+  color: #0095f6;
+  cursor: pointer;
+}
+
+html body .container .containerMain .containerPartTwo .containerParIcons p {
+  color: #262626;
+  font-size: 1.4rem;
+  line-height: 1.8rem;
+  margin: 1rem 2rem;
+  text-align: center;
+}
+
+html body .container .containerMain .containerPartTwo .containerParIcons img {
+  cursor: pointer;
+  margin: 1rem auto;
+  height: 4rem;
+}
+
+html body .container .partFooter {
+  text-align: center;
+  color: #8e8e8e;
+  margin: 2.4rem 0rem 5.2rem;
+  font-size: 1.3rem;
+  line-height: 1.6;
+}
+
+html body .container .partFooter span + span {
+  margin-right: 0.8rem;
+  cursor: pointer;
+}
+
+html body .container .partFooter .partCopyRight {
+  margin-top: 1rem;
+}
+
+@media (max-width: 825px) {
+  .container .containerMain .containerPartOne {
+    display: none;
+  }
+  .container .containerMain .containerPartTwo .containerContent .containerFirst {
+    background-color: #fafafa !important;
+    border: 0rem !important;
+    padding: 0rem !important;
+  }
+  .container .containerMain .containerPartTwo .containerContent .containerParSing {
+    background-color: #fafafa !important;
+    border: 0rem !important;
+  }
+  .container .partFooter {
+    padding: 0px 16px;
+  }
+}
+/*# sourceMappingURL=main.css.map */

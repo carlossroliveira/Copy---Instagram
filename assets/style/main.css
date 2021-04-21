@@ -29,6 +29,7 @@ html body .container .containerMain {
 }
 
 html body .container .containerMain .containerPartTwo {
+  margin: 0rem 2rem;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
